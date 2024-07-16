@@ -1,8 +1,8 @@
 from tmp.main import main
 import pytest
 
-def test_main():
 
+def test_main():
     assert main() == 123
 
 
